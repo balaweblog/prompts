@@ -1,6 +1,5 @@
 I currently hold the following stocks in my portfolio:
-* TCS: 67 shares bought at ₹3,829 each
-* Varun Beverages (VBL): 170 shares bought at ₹539 each
+* TCS: 81 shares bought at ₹3,554 each
 Please analyze based on today’s market trends (current live data) and provide a clear, actionable strategy for each stock under these sections:
 
 1️⃣ Current Status Summary

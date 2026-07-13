@@ -1,4 +1,4 @@
-Conduct a professional long-term investment analysis for SBI, LT, Coal India, Varun Beverages, TCS, Delhivery, BEL, Sun Pharma, ITC, ICICI Bank 
+Conduct a professional long-term investment analysis for ITC, SBI, L&T, ICICI Bank, Coal India, Sun Pharma, BEL, Shriram Finance, Bharti Airtel, Asian Paints
 
 Requirements:
 

@@ -1,5 +1,6 @@
 
-Generate a table for my SIP stocks: Coal India, SBI, ICICI Bank, Larsen & Toubro (LT), Sun Pharma, and ITC. 
+Generate a table for my SIP stocks: ITC, SBI, L&T, ICICI Bank, Coal India, Sun Pharma, BEL, Shriram Finance, Bharti Airtel, Asian Paints
+
 - Show only upcoming dividend dates from the current date (ignore past record dates). 
 - Include the following columns:
   1. Name of Stock

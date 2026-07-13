@@ -1,5 +1,6 @@
 Conduct a professional long-term investment analysis for ITC, SBI, L&T, ICICI Bank, Coal India, Sun Pharma, BEL, Shriram Finance, Bharti Airtel, Asian Paints
 
+
 Requirements:
 
 1. Use the most recent and authoritative stock market data (NSE/BSE closing prices, weekly/monthly charts, volumes, market cap).
